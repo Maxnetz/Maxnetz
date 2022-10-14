@@ -1,7 +1,7 @@
 Hi 👋 My name is Max
 ====================
 
-Full-Stack Engineer
+Software Engineer
 -------------------
 
 * 🌍  I'm based in Bangkok, Thailand.
