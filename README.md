@@ -1,4 +1,4 @@
-Hi 👋 My name is Max
+Hi My name is Max
 ====================
 
 Software Engineer
