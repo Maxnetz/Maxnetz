@@ -1,7 +1,7 @@
 Hi My name is Max
 =====================
 
-Software Engineer
+Software Developer
 -------------------
 
 * 🌍  I'm based in Bangkok, Thailand.
