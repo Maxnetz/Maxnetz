@@ -5,7 +5,7 @@ Software Engineer
 -------------------
 
 * 🌍  I'm based in Bangkok, Thailand.
-* 🧠  I'm learning Web Development, Data Engineering.
+* 🧠  I'm learning Software Engineering, Data Engineering.
 * 🤝  I'm open to collaborating on any interesting projects.
 
 <!---
