@@ -5,5 +5,4 @@ I'm Max, a software engineer with a passion for crafting software applications. 
 
 
 
-
 <!-- https://www.profileme.dev/create-profile  -->
